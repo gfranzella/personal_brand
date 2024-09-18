@@ -11732,3 +11732,9 @@ html {
     left: -2vw;
   }
 }
+
+
+.logo{
+  width: 200px; /* Ajusta el tamaño como lo necesites */
+  height: auto; /* Mantiene la proporción */
+}
